@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-export default class ShoppingList extends React.Component {
+export default class Main extends React.Component {
 
  async componentDidMount () {   }
 
