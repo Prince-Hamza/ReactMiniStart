@@ -31,9 +31,8 @@ export default class ShoppingList extends React.Component {
 
           {/*   <Route  exact path="/Groups/:id"   render = {(props)=>  <Groups {...props} /> }  />   */}
 
-          // Recieve id in Component
-
-          //  var Data = this.props.match ; var params = Data.params;  var Routeid = params.id;
+	  {/*  Recieve id in Component
+               var Data = this.props.match ; var params = Data.params;  var Routeid = params.id;   */}
 
 
       </div>
